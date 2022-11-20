@@ -2,7 +2,7 @@
 
 Simple Python program that converts a binary number to a decimal number.
 
-Idea from here
+Idea from [here](https://github.com/florinpop17/app-ideas).
 
 Tier: 1-Beginner
 
